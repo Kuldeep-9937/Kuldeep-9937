@@ -78,6 +78,9 @@
   <a href="https://leetcode.com/u/kuldeepRoutray/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/kroutrx2x9/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
