@@ -38,10 +38,6 @@
 - Automates audit document generation using **AI (OpenAI API)**
 - Supports **Word/PDF output**, **template upload**, and **organization-level automation**
 
-#### 🎙️ Oishavox – Speech-to-Speech AI Tool
-- Built using **React + Tailwind + FastAPI**
-- Supports **Hindi, Odia, English**
-- Features **speech-to-text**, **text-to-speech**, and **AI language conversation**
 
 #### 💼 Interactive Portfolio Website
 - Created with **React + Vite + Tailwind CSS**
