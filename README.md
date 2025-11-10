@@ -28,7 +28,7 @@
   <img width="120" height="120" alt="FastAPI" src="https://github.com/user-attachments/assets/07f6e442-605b-4513-8e24-2df750b55d6c" />
   <img width="120" height="120" alt="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" />
   <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/3f452e4d-ff2c-4e4f-a945-085ceb79435f" />
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f37a55e7-a43c-4fb0-a40d-ba130567f580" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/f37a55e7-a43c-4fb0-a40d-ba130567f580" />
 
 
   
