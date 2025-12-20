@@ -22,7 +22,7 @@
   <img width="100" height="100" alt="React" src="https://github.com/user-attachments/assets/d74dfb82-e2bc-4b5a-ba77-905c564df87e" />
   <img width="100" height="100" alt="React Native" src="https://github.com/user-attachments/assets/0b0d2015-c562-428e-9c29-9a696c79f008" />
   <img width="100" height="100" alt="JavaScript" src="https://github.com/user-attachments/assets/6a71f151-3035-4989-8155-22687b111eb3" />
-   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d744fcaf-8278-4439-98d6-7fedeb367a89" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d744fcaf-8278-4439-98d6-7fedeb367a89" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ded25e40-55d2-42fb-b4a1-6f53ce654c02" />
   <img width="100" height="100" alt="Java" src="https://github.com/user-attachments/assets/146cb02c-3780-4ee8-960a-9115b509dbc7" />
   <img width="100" height="100" alt="SQL" src="https://github.com/user-attachments/assets/135d1460-63db-4577-82a3-fbd859583ed0" />
@@ -39,7 +39,7 @@
   <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/51f0d2f8-1196-49ef-8482-aa469212a3a1" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6db822b7-e5b5-4fb9-8b7e-8ab7890a3e35" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b63f0928-c6b6-4029-ab69-2e58a0d9f608" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/89f2b997-6c03-45a6-8309-1dff99b87eed" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/89f2b997-6c03-45a6-8309-1dff99b87eed" />
 
 
 
