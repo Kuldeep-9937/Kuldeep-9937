@@ -6,9 +6,9 @@
 ### 💡 About Me
 
 - 🎓 Graduate from **BJB College (BSc ITM)**
-- 💼 Currently working as a **Software Engineer Intern at Deepsurg AI**
+- 💼 Worked a **Software Engineer Intern at Deepsurg AI(jun 2025 to dec 2025)**
 - 💻 Passionate about **Web Development (MERN Stack)** & **AI Integration**
-- 🌱 Currently exploring **FastAPI**, **OpenAI APIs**, and **Full Stack Projects**
+- 🌱 Currently exploring **Node.js**, **OpenAI APIs**, and **Full Stack Projects**
 - 📫 Reach me at **kroutray321@gmail.com**
 
 ---
